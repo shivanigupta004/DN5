@@ -1,0 +1,14 @@
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\bin\Debug\net10.0\Exercise7_FinancialForecasting.exe
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\bin\Debug\net10.0\Exercise7_FinancialForecasting.deps.json
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\bin\Debug\net10.0\Exercise7_FinancialForecasting.runtimeconfig.json
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\bin\Debug\net10.0\Exercise7_FinancialForecasting.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\bin\Debug\net10.0\Exercise7_FinancialForecasting.pdb
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.AssemblyInfoInputs.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.AssemblyInfo.cs
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\obj\Debug\net10.0\refint\Exercise7_FinancialForecasting.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.pdb
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.genruntimeconfig.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\Exercise7_FinancialForecasting\obj\Debug\net10.0\ref\Exercise7_FinancialForecasting.dll

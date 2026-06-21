@@ -1,0 +1,14 @@
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\bin\Debug\net10.0\Exercise1_SingletonPattern.exe
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\bin\Debug\net10.0\Exercise1_SingletonPattern.deps.json
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\bin\Debug\net10.0\Exercise1_SingletonPattern.runtimeconfig.json
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\bin\Debug\net10.0\Exercise1_SingletonPattern.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\bin\Debug\net10.0\Exercise1_SingletonPattern.pdb
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.AssemblyInfo.cs
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\obj\Debug\net10.0\refint\Exercise1_SingletonPattern.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.pdb
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\obj\Debug\net10.0\Exercise1_SingletonPattern.genruntimeconfig.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise1_SingletonPattern\obj\Debug\net10.0\ref\Exercise1_SingletonPattern.dll

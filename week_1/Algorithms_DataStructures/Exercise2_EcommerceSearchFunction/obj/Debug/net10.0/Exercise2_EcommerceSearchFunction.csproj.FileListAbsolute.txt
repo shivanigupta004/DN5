@@ -1,0 +1,14 @@
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\bin\Debug\net10.0\Exercise2_EcommerceSearchFunction.exe
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\bin\Debug\net10.0\Exercise2_EcommerceSearchFunction.deps.json
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\bin\Debug\net10.0\Exercise2_EcommerceSearchFunction.runtimeconfig.json
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\bin\Debug\net10.0\Exercise2_EcommerceSearchFunction.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\bin\Debug\net10.0\Exercise2_EcommerceSearchFunction.pdb
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\obj\Debug\net10.0\Exercise2_EcommerceSearchFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\obj\Debug\net10.0\Exercise2_EcommerceSearchFunction.AssemblyInfoInputs.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\obj\Debug\net10.0\Exercise2_EcommerceSearchFunction.AssemblyInfo.cs
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\obj\Debug\net10.0\Exercise2_EcommerceSearchFunction.csproj.CoreCompileInputs.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\obj\Debug\net10.0\Exercise2_EcommerceSearchFunction.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\obj\Debug\net10.0\refint\Exercise2_EcommerceSearchFunction.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\obj\Debug\net10.0\Exercise2_EcommerceSearchFunction.pdb
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\obj\Debug\net10.0\Exercise2_EcommerceSearchFunction.genruntimeconfig.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\Alogithms_DataStructures\obj\Debug\net10.0\ref\Exercise2_EcommerceSearchFunction.dll

@@ -1,0 +1,14 @@
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\bin\Debug\net10.0\Exercise2_FactoryMethod.exe
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\bin\Debug\net10.0\Exercise2_FactoryMethod.deps.json
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\bin\Debug\net10.0\Exercise2_FactoryMethod.runtimeconfig.json
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\bin\Debug\net10.0\Exercise2_FactoryMethod.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\bin\Debug\net10.0\Exercise2_FactoryMethod.pdb
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\obj\Debug\net10.0\Exercise2_FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\obj\Debug\net10.0\Exercise2_FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\obj\Debug\net10.0\Exercise2_FactoryMethod.AssemblyInfo.cs
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\obj\Debug\net10.0\Exercise2_FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\obj\Debug\net10.0\Exercise2_FactoryMethod.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\obj\Debug\net10.0\refint\Exercise2_FactoryMethod.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\obj\Debug\net10.0\Exercise2_FactoryMethod.pdb
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\obj\Debug\net10.0\Exercise2_FactoryMethod.genruntimeconfig.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\DesignPatternsAndPrinciples\Exercise2_FactoryMethod\obj\Debug\net10.0\ref\Exercise2_FactoryMethod.dll

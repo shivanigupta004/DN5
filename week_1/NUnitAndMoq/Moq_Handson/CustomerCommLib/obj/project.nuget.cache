@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5Skuu4kQKk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\94shi\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

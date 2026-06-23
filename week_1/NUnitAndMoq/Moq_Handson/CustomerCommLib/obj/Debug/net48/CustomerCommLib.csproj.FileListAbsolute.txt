@@ -1,0 +1,10 @@
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\NUnitAndMoq\Moq_Handson\CustomerCommLib\bin\Debug\net48\CustomerCommLib.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\NUnitAndMoq\Moq_Handson\CustomerCommLib\bin\Debug\net48\CustomerCommLib.pdb
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\NUnitAndMoq\Moq_Handson\CustomerCommLib\obj\Debug\net48\CustomerCommLib.csproj.AssemblyReference.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\NUnitAndMoq\Moq_Handson\CustomerCommLib\obj\Debug\net48\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\NUnitAndMoq\Moq_Handson\CustomerCommLib\obj\Debug\net48\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\NUnitAndMoq\Moq_Handson\CustomerCommLib\obj\Debug\net48\CustomerCommLib.AssemblyInfo.cs
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\NUnitAndMoq\Moq_Handson\CustomerCommLib\obj\Debug\net48\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\NUnitAndMoq\Moq_Handson\CustomerCommLib\obj\Debug\net48\CustomerCommLib.sourcelink.json
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\NUnitAndMoq\Moq_Handson\CustomerCommLib\obj\Debug\net48\CustomerCommLib.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\NUnitAndMoq\Moq_Handson\CustomerCommLib\obj\Debug\net48\CustomerCommLib.pdb

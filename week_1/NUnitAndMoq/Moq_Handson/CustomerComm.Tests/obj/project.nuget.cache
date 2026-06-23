@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "dgSpecHash": "0nITHnnwGXI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\94shi\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\devlooped.sponsorlink\\1.0.0\\devlooped.sponsorlink.1.0.0.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\moq\\4.20.0\\moq.4.20.0.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "CustomerComm.Tests depends on Microsoft.NET.Test.Sdk (>= 17.8.3) but Microsoft.NET.Test.Sdk 17.8.3 was not found. Microsoft.NET.Test.Sdk 17.9.0 was resolved instead.",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net48"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "CustomerComm.Tests depends on Moq (>= 4.18.5) but Moq 4.18.5 was not found. Moq 4.20.0 was resolved instead.",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "libraryId": "Moq",
+      "targetGraphs": [
+        "net48"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'Moq' 4.20.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-6r78-m64m-qwcf",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "libraryId": "Moq",
+      "targetGraphs": [
+        "net48"
+      ]
+    }
+  ]
+}

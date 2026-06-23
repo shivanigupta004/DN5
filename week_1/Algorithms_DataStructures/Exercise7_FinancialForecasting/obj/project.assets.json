@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\Alogithms_DataStructures\\Exercise7_FinancialForecasting\\Exercise7_FinancialForecasting.csproj",
+      "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\Algorithms_DataStructures\\Exercise7_FinancialForecasting\\Exercise7_FinancialForecasting.csproj",
       "projectName": "Exercise7_FinancialForecasting",
-      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\Alogithms_DataStructures\\Exercise7_FinancialForecasting\\Exercise7_FinancialForecasting.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\Algorithms_DataStructures\\Exercise7_FinancialForecasting\\Exercise7_FinancialForecasting.csproj",
       "packagesPath": "C:\\Users\\94shi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\Alogithms_DataStructures\\Exercise7_FinancialForecasting\\obj\\",
+      "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\Algorithms_DataStructures\\Exercise7_FinancialForecasting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\94shi\\AppData\\Roaming\\NuGet\\NuGet.Config"

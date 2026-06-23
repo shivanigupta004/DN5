@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\Algorithms_DataStructures\\Exercise2_EcommerceSearchFunction\\Exercise2_EcommerceSearchFunction.csproj",
-      "projectName": "Exercise2_EcommerceSearchFunction",
-      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\Algorithms_DataStructures\\Exercise2_EcommerceSearchFunction\\Exercise2_EcommerceSearchFunction.csproj",
+      "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\Exercise1_RankingAndWindowFunctions.csproj",
+      "projectName": "Exercise1_RankingAndWindowFunctions",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\Exercise1_RankingAndWindowFunctions.csproj",
       "packagesPath": "C:\\Users\\94shi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\Algorithms_DataStructures\\Exercise2_EcommerceSearchFunction\\obj\\",
+      "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_1\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\94shi\\AppData\\Roaming\\NuGet\\NuGet.Config"

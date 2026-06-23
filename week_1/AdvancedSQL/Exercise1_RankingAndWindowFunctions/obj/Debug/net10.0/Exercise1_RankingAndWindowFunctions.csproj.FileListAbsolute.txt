@@ -1,0 +1,15 @@
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\bin\Debug\net10.0\Exercise1_RankingAndWindowFunctions.exe
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\bin\Debug\net10.0\Exercise1_RankingAndWindowFunctions.deps.json
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\bin\Debug\net10.0\Exercise1_RankingAndWindowFunctions.runtimeconfig.json
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\bin\Debug\net10.0\Exercise1_RankingAndWindowFunctions.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\bin\Debug\net10.0\Exercise1_RankingAndWindowFunctions.pdb
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\obj\Debug\net10.0\Exercise1_RankingAndWindowFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\obj\Debug\net10.0\Exercise1_RankingAndWindowFunctions.AssemblyInfoInputs.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\obj\Debug\net10.0\Exercise1_RankingAndWindowFunctions.AssemblyInfo.cs
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\obj\Debug\net10.0\Exercise1_RankingAndWindowFunctions.csproj.CoreCompileInputs.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\obj\Debug\net10.0\Exercise1_RankingAndWindowFunctions.sourcelink.json
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\obj\Debug\net10.0\Exercise1_RankingAndWindowFunctions.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\obj\Debug\net10.0\refint\Exercise1_RankingAndWindowFunctions.dll
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\obj\Debug\net10.0\Exercise1_RankingAndWindowFunctions.pdb
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\obj\Debug\net10.0\Exercise1_RankingAndWindowFunctions.genruntimeconfig.cache
+C:\Users\94shi\OneDrive\Desktop\DN5\week_1\AdvancedSQL\Exercise1_RankingAndWindowFunctions\obj\Debug\net10.0\ref\Exercise1_RankingAndWindowFunctions.dll

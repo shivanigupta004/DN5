@@ -1,5 +1,5 @@
 is_global = true
-build_property.DesignTimeBuild = 
+build_property.DesignTimeBuild = true
 build_property.MSBuildProjectFullPath = C:\Users\94shi\OneDrive\Desktop\DN5\week_1\NUnitAndMoq\Moq_Handson\CustomerComm.Tests\CustomerComm.Tests.csproj
 build_property.DebugSponsorLink = 
 build_property.RootNamespace = CustomerComm.Tests

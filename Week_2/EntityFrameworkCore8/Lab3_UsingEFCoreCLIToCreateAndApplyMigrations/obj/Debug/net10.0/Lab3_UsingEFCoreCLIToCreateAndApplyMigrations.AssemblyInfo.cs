@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab3_UsingEFCoreCLIToCreateAndApplyMigrations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b941606ce9f3f15f165afe291965d91bcbd0a70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e01f519afefd71268a0bcc44ec39e9a274c193d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab3_UsingEFCoreCLIToCreateAndApplyMigrations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab3_UsingEFCoreCLIToCreateAndApplyMigrations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0iRJ9DAVPIM=",
+  "dgSpecHash": "5xRlag39Fn8=",
   "success": true,
-  "projectFilePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2\\EntityFrameworkCore8\\Lab2_SettingUpDatabaseContextForRetailStore\\Lab2_SettingUpDatabaseContextForRetailStore.csproj",
+  "projectFilePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week_2\\EntityFrameworkCore8\\Lab2_SettingUpDatabaseContextForRetailStore\\Lab2_SettingUpDatabaseContextForRetailStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\94shi\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\94shi\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -75,9 +75,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'System.Security.Cryptography.Xml' 9.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-37gx-xxp4-5rgx",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2\\EntityFrameworkCore8\\Lab2_SettingUpDatabaseContextForRetailStore\\Lab2_SettingUpDatabaseContextForRetailStore.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week_2\\EntityFrameworkCore8\\Lab2_SettingUpDatabaseContextForRetailStore\\Lab2_SettingUpDatabaseContextForRetailStore.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2\\EntityFrameworkCore8\\Lab2_SettingUpDatabaseContextForRetailStore\\Lab2_SettingUpDatabaseContextForRetailStore.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week_2\\EntityFrameworkCore8\\Lab2_SettingUpDatabaseContextForRetailStore\\Lab2_SettingUpDatabaseContextForRetailStore.csproj",
       "libraryId": "System.Security.Cryptography.Xml",
       "targetGraphs": [
         "net10.0"
@@ -87,9 +87,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'System.Security.Cryptography.Xml' 9.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-w3x6-4m5h-cxqf",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2\\EntityFrameworkCore8\\Lab2_SettingUpDatabaseContextForRetailStore\\Lab2_SettingUpDatabaseContextForRetailStore.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week_2\\EntityFrameworkCore8\\Lab2_SettingUpDatabaseContextForRetailStore\\Lab2_SettingUpDatabaseContextForRetailStore.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2\\EntityFrameworkCore8\\Lab2_SettingUpDatabaseContextForRetailStore\\Lab2_SettingUpDatabaseContextForRetailStore.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week_2\\EntityFrameworkCore8\\Lab2_SettingUpDatabaseContextForRetailStore\\Lab2_SettingUpDatabaseContextForRetailStore.csproj",
       "libraryId": "System.Security.Cryptography.Xml",
       "targetGraphs": [
         "net10.0"

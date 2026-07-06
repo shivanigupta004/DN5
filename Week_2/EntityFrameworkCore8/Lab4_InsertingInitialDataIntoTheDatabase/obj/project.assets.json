@@ -4344,11 +4344,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2\\EntityFrameworkCore8\\Lab4_InsertingInitialDataIntoTheDatabase\\Lab4_InsertingInitialDataIntoTheDatabase.csproj",
+      "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week_2\\EntityFrameworkCore8\\Lab4_InsertingInitialDataIntoTheDatabase\\Lab4_InsertingInitialDataIntoTheDatabase.csproj",
       "projectName": "Lab4_InsertingInitialDataIntoTheDatabase",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2\\EntityFrameworkCore8\\Lab4_InsertingInitialDataIntoTheDatabase\\Lab4_InsertingInitialDataIntoTheDatabase.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week_2\\EntityFrameworkCore8\\Lab4_InsertingInitialDataIntoTheDatabase\\Lab4_InsertingInitialDataIntoTheDatabase.csproj",
       "packagesPath": "C:\\Users\\94shi\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2\\EntityFrameworkCore8\\Lab4_InsertingInitialDataIntoTheDatabase\\obj\\",
+      "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week_2\\EntityFrameworkCore8\\Lab4_InsertingInitialDataIntoTheDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\94shi\\AppData\\Roaming\\NuGet\\NuGet.Config"

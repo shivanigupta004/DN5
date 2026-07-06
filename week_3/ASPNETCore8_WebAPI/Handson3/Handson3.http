@@ -1,0 +1,6 @@
+@Handson3_HostAddress = http://localhost:5096
+
+GET {{Handson3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

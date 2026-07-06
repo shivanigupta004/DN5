@@ -1,0 +1,35 @@
+@Handson4_HostAddress = http://localhost:5219
+
+### Get all employees
+GET {{Handson4_HostAddress}}/api/employee
+Accept: application/json
+
+### Get employee by id
+GET {{Handson4_HostAddress}}/api/employee/2
+Accept: application/json
+
+### Update employee with id=2
+PUT {{Handson4_HostAddress}}/api/employee/2
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "Bob Updated",
+  "department": "IT",
+  "salary": 65000,
+  "permanent": true
+}
+
+### Add a new employee
+POST {{Handson4_HostAddress}}/api/employee
+Content-Type: application/json
+
+{
+  "name": "David",
+  "department": "Sales",
+  "salary": 52000,
+  "permanent": false
+}
+
+### Delete employee with id=3
+DELETE {{Handson4_HostAddress}}/api/employee/3

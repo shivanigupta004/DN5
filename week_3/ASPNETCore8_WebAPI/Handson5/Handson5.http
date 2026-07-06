@@ -1,0 +1,10 @@
+@Handson5_HostAddress = http://localhost:5245
+
+### Get JWT token
+GET {{Handson5_HostAddress}}/api/auth/token?userId=1
+Accept: application/json
+
+### Access employees with Bearer token
+GET {{Handson5_HostAddress}}/api/employee
+Accept: application/json
+Authorization: Bearer <token>

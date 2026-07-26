@@ -1,0 +1,98 @@
+.app-shell {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px;
+  font-family: system-ui, sans-serif;
+  color: #243b55;
+}
+
+.hero-banner {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.hero-banner h1 {
+  margin-bottom: 8px;
+}
+
+.hero-banner p {
+  color: #5a6d89;
+  margin: 0;
+}
+
+main {
+  display: grid;
+  gap: 20px;
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 18px;
+  border: 1px solid #e1e8f3;
+  box-shadow: 0 16px 40px rgba(36, 60, 90, 0.08);
+  padding: 22px;
+}
+
+.counter-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  margin-top: 14px;
+}
+
+.counter-value {
+  min-width: 68px;
+  text-align: center;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.button {
+  border: none;
+  border-radius: 12px;
+  padding: 12px 20px;
+  color: #ffffff;
+  background: #2563eb;
+  cursor: pointer;
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.button:hover {
+  background: #1e40af;
+  transform: translateY(-1px);
+}
+
+.pressable {
+  background: #10b981;
+}
+
+.button-group {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-top: 16px;
+}
+
+.result,
+.message,
+.note {
+  margin-top: 14px;
+  color: #1f2937;
+}
+
+input[type='number'] {
+  width: 100%;
+  max-width: 200px;
+  margin-top: 8px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid #cbd5e1;
+}
+
+label {
+  display: block;
+  margin-top: 12px;
+  font-weight: 600;
+}

@@ -1,0 +1,144 @@
+:root {
+  --text: #6b6375;
+  --text-h: #08060d;
+  --bg: #fff;
+  --border: #e5e4e7;
+  --card: #f8f6ff;
+  --accent: #6b49ff;
+  --accent-strong: #2d2c82;
+  --accent-bg: rgba(107, 73, 255, 0.1);
+  --shadow: rgba(16, 24, 40, 0.08) 0 16px 32px -12px;
+  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --mono: ui-monospace, Consolas, monospace;
+  font: 18px/1.5 var(--sans);
+  color: var(--text);
+  background: var(--bg);
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.app-shell {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 32px 24px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.hero-header {
+  text-align: center;
+}
+
+.hero-header h1 {
+  font-size: clamp(2rem, 3vw, 3.5rem);
+  margin: 0;
+  color: var(--accent-strong);
+}
+
+.hero-header p {
+  margin: 14px auto 24px;
+  max-width: 680px;
+  color: #4f4d63;
+}
+
+.toggle-button {
+  border: none;
+  background: var(--accent);
+  color: white;
+  padding: 12px 20px;
+  border-radius: 999px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.toggle-button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 12px 24px -14px rgba(107, 73, 255, 0.5);
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid #e7e5f5;
+  border-radius: 24px;
+  padding: 28px;
+  box-shadow: var(--shadow);
+}
+
+.card h2 {
+  margin-top: 0;
+  color: var(--accent-strong);
+}
+
+.card p {
+  color: #5f5b73;
+}
+
+.player-list,
+.team-group ul,
+.merged-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 18px 0 0;
+  display: grid;
+  gap: 10px;
+}
+
+.player-list li,
+.team-group li,
+.merged-box li {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 16px;
+  background: white;
+  border: 1px solid #ece9f8;
+  border-radius: 16px;
+}
+
+.player-list.compact li {
+  background: #f6f2ff;
+}
+
+.filter-box,
+.merged-box {
+  margin-top: 22px;
+}
+
+.filter-box h3,
+.merged-box h3 {
+  margin: 0 0 12px;
+  color: var(--accent);
+}
+
+.team-group {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  margin-top: 18px;
+}
+
+.team-group h3 {
+  margin-bottom: 10px;
+  color: var(--accent);
+}
+
+.footer-note {
+  text-align: center;
+  color: #7d7a92;
+}
+
+@media (max-width: 768px) {
+  .team-group {
+    grid-template-columns: 1fr;
+  }
+}

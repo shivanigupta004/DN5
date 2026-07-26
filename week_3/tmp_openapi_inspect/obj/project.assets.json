@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\tmp_openapi_inspect\\tmp_openapi_inspect.csproj",
+      "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_3\\tmp_openapi_inspect\\tmp_openapi_inspect.csproj",
       "projectName": "tmp_openapi_inspect",
-      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\tmp_openapi_inspect\\tmp_openapi_inspect.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_3\\tmp_openapi_inspect\\tmp_openapi_inspect.csproj",
       "packagesPath": "C:\\Users\\94shi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\tmp_openapi_inspect\\obj\\",
+      "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\week_3\\tmp_openapi_inspect\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\94shi\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,130 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f4f8;
+  min-height: 100vh;
+}
+
+.app-shell {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.header {
+  background: #1565c0;
+  color: #fff;
+  padding: 24px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  font-size: 1.8rem;
+  margin-bottom: 4px;
+}
+
+.header p {
+  opacity: 0.85;
+  font-size: 0.95rem;
+}
+
+.auth-bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.auth-bar span {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.btn {
+  padding: 8px 20px;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.btn-login {
+  background: #1565c0;
+  color: #fff;
+}
+
+.btn-login:hover { background: #0d47a1; }
+
+.btn-logout {
+  background: #e53935;
+  color: #fff;
+}
+
+.btn-logout:hover { background: #b71c1c; }
+
+.btn-book {
+  background: #43a047;
+  color: #fff;
+  padding: 5px 14px;
+  font-size: 0.85rem;
+}
+
+.btn-book:hover { background: #2e7d32; }
+
+.card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.card h2 {
+  margin-bottom: 12px;
+  color: #1565c0;
+}
+
+.card p {
+  margin-bottom: 12px;
+  color: #555;
+}
+
+.success-msg {
+  background: #e8f5e9;
+  color: #2e7d32;
+  border: 1px solid #a5d6a7;
+  border-radius: 6px;
+  padding: 10px 14px;
+  margin-bottom: 14px;
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background: #e3f2fd;
+  color: #1565c0;
+  padding: 10px 12px;
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #eee;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+tr:last-child td { border-bottom: none; }
+tr:hover td { background: #f9f9f9; }

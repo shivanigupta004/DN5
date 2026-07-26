@@ -6,6 +6,7 @@ This repository contains course materials organized by week.
 - `Week_2` — Entity Framework Core 8 labs (database context, migrations, data seeding, querying).
 - `week_3` — ASP.NET Core 8 Web API hands-on projects and utilities. Contains the `ASPNETCore8_WebAPI` folder and `tmp_openapi_inspect` utility.
 - `week_4` — Microservices and Authentication exercises. Contains `MicroservicesArchitecture` (JWT authentication example).
+- `week_5` — React hands-on labs. Contains `ReactJS-HOL-1` through `ReactJS-HOL-13` covering React fundamentals, hooks, and conditional rendering. See [`week_5/README.md`](week_5/README.md) for details.
 
 Quick run notes
 

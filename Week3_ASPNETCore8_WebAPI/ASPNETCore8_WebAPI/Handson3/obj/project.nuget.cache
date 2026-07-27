@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcKNnQ8EEkY=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson3\\Handson3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\94shi\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\microsoft.aspnetcore.mvc.webapicompatshim\\2.3.11\\microsoft.aspnetcore.mvc.webapicompatshim.2.3.11.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\swashbuckle.aspnetcore\\10.2.3\\swashbuckle.aspnetcore.10.2.3.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.2.3\\swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.3\\swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
+    "C:\\Users\\94shi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.3\\swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Newtonsoft.Json' 10.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson3\\Handson3.csproj",
+      "warningLevel": 1,
+      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson3\\Handson3.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

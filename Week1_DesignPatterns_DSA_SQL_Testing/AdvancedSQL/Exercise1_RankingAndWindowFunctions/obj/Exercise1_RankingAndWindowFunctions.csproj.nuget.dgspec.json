@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\Exercise1_RankingAndWindowFunctions.csproj": {}
+    "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\Exercise1_RankingAndWindowFunctions.csproj": {}
   },
   "projects": {
-    "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\Exercise1_RankingAndWindowFunctions.csproj": {
+    "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\Exercise1_RankingAndWindowFunctions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\Exercise1_RankingAndWindowFunctions.csproj",
+        "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\Exercise1_RankingAndWindowFunctions.csproj",
         "projectName": "Exercise1_RankingAndWindowFunctions",
-        "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\Exercise1_RankingAndWindowFunctions.csproj",
+        "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\Exercise1_RankingAndWindowFunctions.csproj",
         "packagesPath": "C:\\Users\\94shi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\obj\\",
+        "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\AdvancedSQL\\Exercise1_RankingAndWindowFunctions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\94shi\\AppData\\Roaming\\NuGet\\NuGet.Config"

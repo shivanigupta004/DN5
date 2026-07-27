@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q6UX+vkzUjY=",
+  "dgSpecHash": "I7MIZAfrJKA=",
   "success": true,
-  "projectFilePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+  "projectFilePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\94shi\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\94shi\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -75,9 +75,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'System.Security.Cryptography.Xml' 9.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-23rf-6693-g89p",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "libraryId": "System.Security.Cryptography.Xml",
       "targetGraphs": [
         "net10.0"
@@ -87,9 +87,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'System.Security.Cryptography.Xml' 9.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-37gx-xxp4-5rgx",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "libraryId": "System.Security.Cryptography.Xml",
       "targetGraphs": [
         "net10.0"
@@ -99,9 +99,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'System.Security.Cryptography.Xml' 9.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-8q5v-6pqq-x66h",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "libraryId": "System.Security.Cryptography.Xml",
       "targetGraphs": [
         "net10.0"
@@ -111,9 +111,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'System.Security.Cryptography.Xml' 9.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-cvvh-rhrc-wg4q",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "libraryId": "System.Security.Cryptography.Xml",
       "targetGraphs": [
         "net10.0"
@@ -123,9 +123,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'System.Security.Cryptography.Xml' 9.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-g8r8-53c2-pm3f",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "libraryId": "System.Security.Cryptography.Xml",
       "targetGraphs": [
         "net10.0"
@@ -135,9 +135,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'System.Security.Cryptography.Xml' 9.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-mmjf-rqrv-855v",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "libraryId": "System.Security.Cryptography.Xml",
       "targetGraphs": [
         "net10.0"
@@ -147,9 +147,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'System.Security.Cryptography.Xml' 9.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-w3x6-4m5h-cxqf",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations\\Lab3_UsingEFCoreCLIToCreateAndApplyMigrations.csproj",
       "libraryId": "System.Security.Cryptography.Xml",
       "targetGraphs": [
         "net10.0"

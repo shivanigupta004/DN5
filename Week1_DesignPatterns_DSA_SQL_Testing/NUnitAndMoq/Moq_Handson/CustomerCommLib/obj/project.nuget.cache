@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5QIA6Q4UBn8=",
+  "dgSpecHash": "hTL1Ol+ieeM=",
   "success": true,
-  "projectFilePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj",
+  "projectFilePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\94shi\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
     "C:\\Users\\94shi\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"

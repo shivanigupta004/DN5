@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Handson2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82bc1753beb2cf9acb5671ab40df29cddd5e6558")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f967c1fd0b0754b9f6718e1d852b042f61e9922")]
 [assembly: System.Reflection.AssemblyProductAttribute("Handson2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Handson2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\DesignPatternsAndPrinciples\\Exercise1_SingletonPattern\\Exercise1_SingletonPattern.csproj": {}
+    "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\DesignPatternsAndPrinciples\\Exercise1_SingletonPattern\\Exercise1_SingletonPattern.csproj": {}
   },
   "projects": {
-    "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\DesignPatternsAndPrinciples\\Exercise1_SingletonPattern\\Exercise1_SingletonPattern.csproj": {
+    "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\DesignPatternsAndPrinciples\\Exercise1_SingletonPattern\\Exercise1_SingletonPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\DesignPatternsAndPrinciples\\Exercise1_SingletonPattern\\Exercise1_SingletonPattern.csproj",
+        "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\DesignPatternsAndPrinciples\\Exercise1_SingletonPattern\\Exercise1_SingletonPattern.csproj",
         "projectName": "Exercise1_SingletonPattern",
-        "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\DesignPatternsAndPrinciples\\Exercise1_SingletonPattern\\Exercise1_SingletonPattern.csproj",
+        "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\DesignPatternsAndPrinciples\\Exercise1_SingletonPattern\\Exercise1_SingletonPattern.csproj",
         "packagesPath": "C:\\Users\\94shi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\DesignPatternsAndPrinciples\\Exercise1_SingletonPattern\\obj\\",
+        "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\DesignPatternsAndPrinciples\\Exercise1_SingletonPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\94shi\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab1_UnderstandingORMWithRetailInventorySystem\\RetailInventorySystem.csproj": {}
+    "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab1_UnderstandingORMWithRetailInventorySystem\\RetailInventorySystem.csproj": {}
   },
   "projects": {
-    "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab1_UnderstandingORMWithRetailInventorySystem\\RetailInventorySystem.csproj": {
+    "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab1_UnderstandingORMWithRetailInventorySystem\\RetailInventorySystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab1_UnderstandingORMWithRetailInventorySystem\\RetailInventorySystem.csproj",
+        "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab1_UnderstandingORMWithRetailInventorySystem\\RetailInventorySystem.csproj",
         "projectName": "RetailInventorySystem",
-        "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab1_UnderstandingORMWithRetailInventorySystem\\RetailInventorySystem.csproj",
+        "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab1_UnderstandingORMWithRetailInventorySystem\\RetailInventorySystem.csproj",
         "packagesPath": "C:\\Users\\94shi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab1_UnderstandingORMWithRetailInventorySystem\\obj\\",
+        "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week2_EntityFrameworkCore8\\EntityFrameworkCore8\\Lab1_UnderstandingORMWithRetailInventorySystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\94shi\\AppData\\Roaming\\NuGet\\NuGet.Config"

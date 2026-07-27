@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iCI60kBVt3w=",
+  "dgSpecHash": "qEWuFN6PCJo=",
   "success": true,
-  "projectFilePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+  "projectFilePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\94shi\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\94shi\\.nuget\\packages\\devlooped.sponsorlink\\1.0.0\\devlooped.sponsorlink.1.0.0.nupkg.sha512",
@@ -21,9 +21,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "CustomerComm.Tests depends on Microsoft.NET.Test.Sdk (>= 17.8.3) but Microsoft.NET.Test.Sdk 17.8.3 was not found. Microsoft.NET.Test.Sdk 17.9.0 was resolved instead.",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
       "libraryId": "Microsoft.NET.Test.Sdk",
       "targetGraphs": [
         "net48"
@@ -33,9 +33,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "CustomerComm.Tests depends on Moq (>= 4.18.5) but Moq 4.18.5 was not found. Moq 4.20.0 was resolved instead.",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
       "libraryId": "Moq",
       "targetGraphs": [
         "net48"
@@ -45,9 +45,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'Moq' 4.20.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-6r78-m64m-qwcf",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
       "libraryId": "Moq",
       "targetGraphs": [
         "net48"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson6\\Handson6.csproj": {}
+    "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson6\\Handson6.csproj": {}
   },
   "projects": {
-    "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson6\\Handson6.csproj": {
+    "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson6\\Handson6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson6\\Handson6.csproj",
+        "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson6\\Handson6.csproj",
         "projectName": "Handson6",
-        "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson6\\Handson6.csproj",
+        "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson6\\Handson6.csproj",
         "packagesPath": "C:\\Users\\94shi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson6\\obj\\",
+        "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week3_ASPNETCore8_WebAPI\\ASPNETCore8_WebAPI\\Handson6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\94shi\\AppData\\Roaming\\NuGet\\NuGet.Config"

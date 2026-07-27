@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ylmRCotZZZg=",
+  "dgSpecHash": "qnKYS+a2UPI=",
   "success": true,
-  "projectFilePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\NUnit_Handson\\CalculatorTests\\CalculatorTests.csproj",
+  "projectFilePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\NUnit_Handson\\CalculatorTests\\CalculatorTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\94shi\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
     "C:\\Users\\94shi\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
@@ -16,9 +16,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "CalculatorTests depends on Microsoft.NET.Test.Sdk (>= 17.8.3) but Microsoft.NET.Test.Sdk 17.8.3 was not found. Microsoft.NET.Test.Sdk 17.9.0 was resolved instead.",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\NUnit_Handson\\CalculatorTests\\CalculatorTests.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\NUnit_Handson\\CalculatorTests\\CalculatorTests.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\NUnit_Handson\\CalculatorTests\\CalculatorTests.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\NUnit_Handson\\CalculatorTests\\CalculatorTests.csproj",
       "libraryId": "Microsoft.NET.Test.Sdk",
       "targetGraphs": [
         "net48"
@@ -28,9 +28,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "CalculatorTests depends on NUnit (>= 3.13.4) but NUnit 3.13.4 was not found. NUnit 3.14.0 was resolved instead.",
-      "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\NUnit_Handson\\CalculatorTests\\CalculatorTests.csproj",
+      "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\NUnit_Handson\\CalculatorTests\\CalculatorTests.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\NUnit_Handson\\CalculatorTests\\CalculatorTests.csproj",
+      "filePath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\NUnit_Handson\\CalculatorTests\\CalculatorTests.csproj",
       "libraryId": "NUnit",
       "targetGraphs": [
         "net48"

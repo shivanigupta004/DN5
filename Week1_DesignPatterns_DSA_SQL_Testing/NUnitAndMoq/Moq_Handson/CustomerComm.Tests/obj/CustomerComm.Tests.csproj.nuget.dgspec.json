@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj": {}
+    "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj": {
+    "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
         "projectName": "CustomerComm.Tests",
-        "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+        "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
         "packagesPath": "C:\\Users\\94shi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\obj\\",
+        "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerComm.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\94shi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -27,8 +27,8 @@
             "framework": "net48",
             "targetAlias": "net48",
             "projectReferences": {
-              "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj": {
-                "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj"
+              "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj": {
+                "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj": {
+    "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj",
+        "projectUniqueName": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj",
         "projectName": "CustomerCommLib",
-        "projectPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj",
+        "projectPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj",
         "packagesPath": "C:\\Users\\94shi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\obj\\",
+        "outputPath": "C:\\Users\\94shi\\OneDrive\\Desktop\\DN5\\Week1_DesignPatterns_DSA_SQL_Testing\\NUnitAndMoq\\Moq_Handson\\CustomerCommLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\94shi\\AppData\\Roaming\\NuGet\\NuGet.Config"

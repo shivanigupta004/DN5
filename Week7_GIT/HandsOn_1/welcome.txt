@@ -1,0 +1,3 @@
+Welcome to the Git hands-on project.
+
+This file was created as part of the introductory Git lab.

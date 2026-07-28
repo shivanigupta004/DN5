@@ -1,0 +1,1 @@
+This file can be used to capture notes while practicing the branch merge exercise.

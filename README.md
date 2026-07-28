@@ -24,6 +24,9 @@ Focuses on front-end development with React, including component structure, even
 ### Week 6
 Covers Angular fundamentals through a standalone Student Course Portal, including components, routing, forms, services, and testing.
 
+### Week 7
+Focuses on Git hands-on labs, including repository setup, `.gitignore`, branching, merge conflict resolution, and cleanup/push workflows.
+
 ## Highlights
 
 - Build strong foundations in C#, .NET, SQL, and web APIs.
@@ -73,6 +76,14 @@ cd Week5_React/React/ReactJS-HOL-11
 npm install
 npm run dev
 ```
+
+### Week 7: Git hands-on labs
+
+```powershell
+cd Week7_GIT
+```
+
+Open any of the hands-on folders such as `HandsOn_1` through `HandsOn_5` to follow the Git exercises.
 
 ## Notes
 

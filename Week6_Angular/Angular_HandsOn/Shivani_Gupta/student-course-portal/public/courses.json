@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Angular Foundations",
+    "description": "Learn the essentials of Angular components and routing.",
+    "duration": "4 weeks",
+    "level": "Beginner",
+    "instructor": "Asha Mehta",
+    "lessons": 12,
+    "credits": 3
+  },
+  {
+    "id": 2,
+    "title": "RxJS Essentials",
+    "description": "Understand reactive programming and streams.",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "instructor": "Ravi Kumar",
+    "lessons": 10,
+    "credits": 2
+  },
+  {
+    "id": 3,
+    "title": "Advanced State Management",
+    "description": "Build scalable apps with NgRx and signals.",
+    "duration": "6 weeks",
+    "level": "Advanced",
+    "instructor": "Nina Shah",
+    "lessons": 14,
+    "credits": null
+  }
+]

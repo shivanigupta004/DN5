@@ -1,35 +1,83 @@
 # DN5 Workspace Overview
 
-This repository contains course materials organized by week.
+This workspace contains hands-on labs grouped by training week.
 
-- `week_1` — Advanced SQL, Algorithms & Data Structures, Design Patterns, and NUnit/Moq hands-on exercises.
-- `Week_2` — Entity Framework Core 8 labs (database context, migrations, data seeding, querying).
-- `week_3` — ASP.NET Core 8 Web API hands-on projects and utilities. Contains the `ASPNETCore8_WebAPI` folder and `tmp_openapi_inspect` utility.
-- `week_4` — Microservices and Authentication exercises. Contains `MicroservicesArchitecture` (JWT authentication example).
-- `week_5` — React hands-on labs. Contains `ReactJS-HOL-1` through `ReactJS-HOL-13` covering React fundamentals, hooks, and conditional rendering. See [`week_5/README.md`](week_5/README.md) for details.
+> Key focus areas include backend development, modern UI building, testing, and full-stack learning paths.
 
-Quick run notes
+## Weeks
 
-- MicroservicesArchitecture (Week 4):
+### Week 1
+Focuses on core programming and software design fundamentals, including design patterns, data structures and algorithms, SQL queries, and NUnit/Moq-based unit testing.
+
+### Week 2
+Covers Entity Framework Core 8, including ORM concepts, DbContext configuration, database migrations, and practical data access patterns.
+
+### Week 3
+Introduces ASP.NET Core 8 Web API development with hands-on practice in building APIs, working with controllers, and exploring OpenAPI support.
+
+### Week 4
+Explores microservices architecture, service-oriented design, and JWT-based authentication for secure application development.
+
+### Week 5
+Focuses on front-end development with React, including component structure, event handling, conditional rendering, and interactive UI examples.
+
+### Week 6
+Covers Angular fundamentals through a standalone Student Course Portal, including components, routing, forms, services, and testing.
+
+## Highlights
+
+- Build strong foundations in C#, .NET, SQL, and web APIs.
+- Explore modern front-end development with React and Angular.
+- Practice testing with NUnit, Moq, and Angular unit tests.
+- Learn service-oriented architecture and authentication concepts.
+
+## React labs
+
+The React practice projects are located in `Week5_React/React` and include labs such as:
+
+- `ReactJS-HOL-1` through `ReactJS-HOL-13`
+- Event handling examples and UI state demos
+- Conditional rendering and ticket booking examples
+
+## Quick run notes
+
+### Week 6: Angular Student Course Portal
+
+```powershell
+cd Week6_Angular/Angular_HandsOn/Shivani_Gupta/student-course-portal
+npm install
+npm start
+```
+
+Then open http://localhost:4200/.
+
+### Week 4: MicroservicesArchitecture
 
 ```bash
-cd week_4/MicroservicesArchitecture
-# build
+cd Week4_Microservices_JWT/MicroservicesArchitecture
 dotnet build
-# run (example HTTP URL)
 dotnet run --project MicroservicesArchitecture.csproj --urls http://127.0.0.1:5080
 ```
 
-- tmp_openapi_inspect (Week 3):
+### Week 3: OpenAPI inspection utility
 
 ```powershell
-cd week_3/tmp_openapi_inspect
+cd Week3_ASPNETCore8_WebAPI/tmp_openapi_inspect
 dotnet run --project tmp_openapi_inspect.csproj
 ```
 
-Notes
+### Week 5: React lab
 
-- Some projects target .NET 10 (`net10.0`). Ensure you have a compatible .NET SDK installed.
-- For running Web APIs, check the console output for the exact listening URLs (HTTP/HTTPS) and use those when calling endpoints.
+```powershell
+cd Week5_React/React/ReactJS-HOL-11
+npm install
+npm run dev
+```
 
-If you want, I can add per-week README entries listing each subfolder and a short description.
+## Notes
+
+- Some .NET projects target `net10.0`, so a compatible SDK may be required.
+- For Web API projects, check the console output for the exact local URL before calling endpoints.
+- React labs are Vite-based and can be started locally with `npm install` followed by `npm run dev`.
+- The Angular Student Course Portal includes an Output folder with screenshots and verification images for the hands-on milestones.
+- A missing or unlisted week can be added here later if additional training content is introduced.
